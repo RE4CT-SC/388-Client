@@ -1,11 +1,3 @@
-"""
-388_client.py – personal notes for 2025‑07‑21 update
-
-•   Fixed that annoying "main thread not in main loop" error – all Tkinter stuff now runs on the main thread.
-•   Added pop-ups to explain why activation failed (like if user is not in a voice channel or token's bad).
-•   Made it work with pygame 2.6.x (just the joystick API).
-"""
-
 # essential imports
 import os, sys, time, json, threading, base64, io, requests, tkinter as tk
 from tkinter import messagebox
