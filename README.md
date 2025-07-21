@@ -82,13 +82,3 @@ That’s it! The script now lives in your system tray (or task‑bar) and will n
   Delete it to run the setup wizard again.
 * Server URL defaults can be changed at the top of **388\_client.py** (`LOCAL_SERVER_URL` & `EXTERNAL_SERVER_URL`).
 * Need a desktop shortcut? Right‑click **388\_client.py** → **Send to → Desktop (create shortcut)**.
-
----
-
-## 📄 License
-
-MIT License — see `LICENSE` for details.
-
----
-
-Made with ♥ for the 388 community. Enjoy!
